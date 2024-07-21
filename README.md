@@ -3,7 +3,13 @@ This repository contains a collection of Jupyter notebooks designed to provide h
 This is the source code used for the hands on exercises used for the AI Microclasses course held by the TUM-VentureLabs.
 
 # Overview
-This workshop series covers a wide range of topics essential for understanding and implementing modern AI solutions. The notebooks are structured to guide participants through practical examples and detailed explanations. Below is a summary of the key topics covered:
+This workshop series covers a wide range of topics essential for understanding and implementing modern AI solutions. The notebooks are structured to guide participants through practical examples and detailed explanations. 
+Links to collab notebooks can be found:
+- https://colab.research.google.com/drive/1Ag_2AwwIRFrtygmlk_HIw-Pb1YyQLrcN?usp=sharing
+- https://colab.research.google.com/drive/1uCMHYFJKtcLroslLDWaLFafc-ZgInwrJ?usp=sharing
+- https://colab.research.google.com/drive/19jL1IgpmT2RNEqkJaHpOiqISAvXUE2Yd?usp=sharing
+
+Below is a summary of the key topics covered:
 
 ### 1. API Calling
 Learn how to interact with various APIs programmatically. This section includes:
